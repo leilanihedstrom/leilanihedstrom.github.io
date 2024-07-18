@@ -36,7 +36,9 @@ His area of research include:
 
 ## About My Project
 
-Project description goes here.
+My research project aims to examine the effect of perceived social presence, whether interacting with a human or AI in a job interview, on interviewees’ communication style, behavior, emotional response, and performance. The goal is to understand how the interviewer's perceived nature (human or AI) impacts interview outcomes.
+
+My advisor, David Ramsay, allowed me to use the DREAM opportunity to pursue this research topic of personal interest. The 10-week summer timeline will serve as a foundation for my Master’s thesis. With my advisor's guidance, I will generate a research proposal and a literature review, which will include identifying research questions, formulating hypotheses, and designing a research protocol. Post-DREAM, I will execute the experiment, analyze data, draw conclusions, and submit for my first academic publication.
 
 [My Final Report](files/finalreport.pdf)
 

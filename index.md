@@ -25,7 +25,7 @@ My contact information:
 
 <a href="https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=1631">David Ramsay</a> is an Assistant Professor at DePaul University and Director of the <a href="https://irl.depaul.edu/">Idea Realization Lab</a> Makerspaces. He earned his PhD in 2023 from the MIT Media Lab's Responsive Environments group under Dr. Joe Paradiso, studying how tool design alters daily attention dynamics. He integrates high-quality hardware systems with cutting-edge statistical modeling to enhance human experience.
 
-A Fulbright-winning researcher, David spent three years as an audio systems engineer at Bose Research before his PhD. At MIT, he worked on embedded machine learning models at Google AI and studied manufacturing in Shenzhen under Dr. Bunnie Huang. He created and taught MIT’s first for-credit class on psychology’s replication crisis and was nominated for MIT’s Goodwin Teaching Award. He has lectured in Dr. Roz Picard’s ‘AI and Mental Health’ class which has received two best paper awards and two patents, with his work featured on NPR and exhibited at the MIT Museum.
+A Fulbright-winning researcher, David spent years as an audio systems engineer at Bose Research before his PhD. At MIT, he worked on embedded machine learning models at Google AI and studied manufacturing in Shenzhen under Dr. Bunnie Huang. He created and taught MIT’s first for-credit class on psychology’s replication crisis and was nominated for MIT’s Goodwin Teaching Award. He has lectured in Dr. Roz Picard’s ‘AI and Mental Health’ class which has received two best paper awards and two patents, with his work featured on NPR and exhibited at the MIT Museum.
 
 His area of research include:
 <ul>

@@ -36,9 +36,9 @@ His area of research include:
 
 ## About My Project
 
-My research project aims to examine the effect of perceived social presence, whether interacting with a human or AI in a job interview, on interviewees’ communication style, behavior, emotional response, and performance. The goal is to understand how the interviewer's perceived nature (human or AI) impacts interview outcomes.
+My research project examines the impact of perceived social presence in technology-mediated job interviews, focusing on how virtual interactions with human versus AI interviewers affect interviewees' communication styles, behaviors, emotional responses, and performance. Leveraging Social Presence Theory (SPT) (Short, Williams, & Christie, 1976) and Media Richness Theory (MRT) (Daft & Lengel, 1986), this study explores how social cues influence impression management and effective communication in high-stress scenarios such as employment interviews. Previous research indicates that job seekers perform better with enhanced impression management facilitated by non-verbal cues in face-to-face settings (Basch, Kegelmann, & Lieb, 2020).
 
-My advisor, Dr. David Ramsay, allowed me to use the DREAM opportunity to pursue this research topic of personal interest. The 10-week summer timeline will serve as a foundation for my Master’s thesis. With my advisor's guidance, I will generate a research proposal and a literature review, which will include identifying research questions, formulating hypotheses, and designing a research protocol. Post-DREAM, I will execute the experiment, analyze data, draw conclusions, and submit for my first academic publication.
+With the rise of anthropomorphic AI, this study investigates how hyper-realistic AI technologies influence social presence and interview dynamics. Emerging findings suggest job seekers behave differently when interacting with AI compared to human interviewers, exhibiting more deceptive behaviors with AI agents (Suen & Hung, 2024). The goal is to understand how the perceived nature of the interviewer (human or AI) impacts interviewees, offering insights into the future of human-AI interaction in recruitment and hiring technologies.
 
 [My Final Report](files/finalreport.pdf)
 

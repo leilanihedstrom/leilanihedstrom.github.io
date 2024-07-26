@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-Hello world! I’m Leilani, and thank you for checking out my DREAM research project website. The Distributed REsearch Apprenticeships for Master’s (DREAM) is funded by the National Science Foundation and MSCS Consortium partners to encourage participants in underrepresened groups' to pursue a Phd in Computing. 
+Hello world! I’m Leilani, and thank you for checking out my DREAM research project website. The Distributed REsearch Apprenticeships for Master’s (DREAM) is funded by the National Science Foundation and MSCS Consortium partners to encourage participants in underrepresened groups' to pursue a PhD in Computing. 
 
 I studied Psychology during my undergraduate years at the University of North Florida and worked as a research assistant at the Cognition Lab for two semesters. Then I went on to pursue my Master’s in Industrial-Organizational Psychology with an emphasis on cross-cultural research at Roosevelt University. I graduated in 2015 and have since worked in the recruitment and hiring field for 8 years. Driven by curiosity and a desire for a career change, I began exploring the field of User Experience/User Interface. In 2023, I decided to return to school, where I began my current field of study in a Master’s in Human-Computer Interaction, and I am on track to graduate in December 2025.
 

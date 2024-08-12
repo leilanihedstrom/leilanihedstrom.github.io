@@ -36,9 +36,7 @@ His area of research include:
 
 ## About My Project
 
-My research project examines the impact of perceived social presence in technology-mediated job interviews, focusing on how virtual interactions with human versus AI interviewers affect interviewees' communication styles, behaviors, emotional responses, and performance. Leveraging Social Presence Theory (SPT) (Short, Williams, & Christie, 1976) and Media Richness Theory (MRT) (Daft & Lengel, 1986), this study explores how social cues influence impression management and effective communication in high-stress scenarios such as employment interviews. Previous research indicates that job seekers perform better with enhanced impression management facilitated by non-verbal cues in face-to-face settings (Basch, Kegelmann, & Lieb, 2020).
-
-With the rise of anthropomorphic AI, this study investigates how hyper-realistic AI technologies influence social presence and interview dynamics. Emerging findings suggest job seekers behave differently when interacting with AI compared to human interviewers (Suen & Hung, 2024). The goal is to understand how the perceived nature of the interviewer (human or AI) impacts interviewees, offering insights into the future of human-AI interaction in recruitment and hiring technologies.
+My project focuses on human-AI interaction within the context of employment interviews. The study aims to investigate job seekers' unconscious behavioral and verbal responses when interviewing with an AI versus a human interviewer and how these responses might impact interview performance. We anticipate that anthropomorphic AI will become an integral feature of asynchronous video interviews in future recruitment technologies. Our study seeks to lay the groundwork for understanding critical psychological constructs that can influence interviewees' performance, such as trust, perception, procedural justice, self-disclosure, and psychological distance.
 
 [My Final Report](files/finalreport.pdf)
 

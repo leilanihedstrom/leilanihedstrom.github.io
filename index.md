@@ -36,7 +36,7 @@ His area of research include:
 
 ## About My Project
 
-My project focuses on human-AI interaction within the context of employment interviews. The study aims to investigate job seekers' unconscious behavioral and verbal responses when interviewing with an AI versus a human interviewer and how these responses might impact interview performance. We anticipate that anthropomorphic AI will become an integral feature of asynchronous video interviews in future recruitment technologies. Our study seeks to lay the groundwork for understanding critical psychological constructs that can influence interviewees' performance, such as trust, perception, procedural justice, self-disclosure, and psychological distance.
+My project focuses on human-AI interaction within the context of employment interviews. The study aims to investigate job seekers' unconscious behavioral and verbal responses when interviewing with an AI versus a human interviewer and how these responses might impact interview performance. We anticipate that anthropomorphic AI will become an integral feature of asynchronous video interviews in future recruitment technologies. Our study seeks to lay the groundwork for understanding critical psychological constructs that can influence interviewees' performative differences, such as trust, perception, procedural justice, self-disclosure, and psychological distance.
 
 [My Final Report](files/finalreport.pdf)
 

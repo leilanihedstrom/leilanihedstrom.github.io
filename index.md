@@ -40,6 +40,8 @@ My project focuses on human-AI interaction within the context of employment inte
 
 [My Final Report](files/finalreport.pdf)
 
+[My Research Proposal](files/researchproposal.pdf)
+
 ## My Blog
 
 [My Blog](blog.html)
